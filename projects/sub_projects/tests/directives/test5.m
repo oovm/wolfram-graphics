@@ -1,0 +1,1 @@
+Graphics[{Style[Disk[], Pink], Style[Rectangle[{2, -1}, {4, 1}], Blue]}]

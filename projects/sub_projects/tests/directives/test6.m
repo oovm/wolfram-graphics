@@ -1,0 +1,1 @@
+Graphics[{Pink, Disk[], {Blue, Disk[{1, 0}]}, Disk[{2, 0}]}]
